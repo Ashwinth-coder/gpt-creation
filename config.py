@@ -1,0 +1,2 @@
+# config.py
+MISTRAL_API_KEY = "8BAj3H8bG6tkPKYRZKpdgM8MJsPgZFVq"
